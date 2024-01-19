@@ -1,0 +1,17 @@
+{
+  "name": "vue2-json-editor-formatter",
+  "version": "1.0.1",
+  "description": "a json editor with vue2.0",
+  "homepage": "https://github.com/rushuinet/vue2-json-editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git@github.com:rushuinet/vue2-json-editor.git",
+  "keywords": [
+    "json",
+    "editor"
+  ],
+  "author": "rushui",
+  "license": "ISC"
+}
